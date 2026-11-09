@@ -17,8 +17,6 @@ Created and maintained by [TheAstroMirth](https://github.com/TheAstroMirth).
 
 ## Screenshots
 
-_No screenshots yet._ Add a before/after picture of a profile here, for example `docs/before-after.png`.
-
 ## Features
 
 - Shows all profile badges in the normal badge row. No `+3`, no extra click.
