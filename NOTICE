@@ -1,0 +1,36 @@
+ShowAllBadges
+Copyright (c) 2026 TheAstroMirth
+https://github.com/TheAstroMirth/ShowAllBadges
+
+This project is licensed under the GNU General Public License, version 3 or
+(at your option) any later version. See LICENSE.
+
+All files in this repository are original work by TheAstroMirth:
+
+plugin/       The ShowAllBadges plugin
+installers/   Windows and macOS installers and uninstallers
+README.md     Documentation
+
+Third-party material
+--------------------
+LICENSE is the unmodified text of the GNU General Public License v3,
+copyright (C) Free Software Foundation, Inc.
+
+No third-party source code is included. The plugin is written against the
+plugin API of Vencord (https://github.com/Vendicated/Vencord, GPL-3.0-or-later)
+and is only usable as part of a Vencord or Equicord build, which is why this
+project uses the same licence.
+
+Provenance of the plugin
+------------------------
+plugin/index.ts was written for this project from an analysis of Discord's
+web client code. It disables the feature gate that switches the profile badge
+list to its collapsed "+n" layout.
+
+An earlier plugin with the same purpose and name exists:
+https://github.com/ItzMeShadow999/showAllBadges (GPL-3.0-or-later). It was
+known to the author and takes a different approach (it rewrites the derived
+flag that follows the gate). None of its code is included here.
+
+Vencord, Equicord and Discord are names of their respective owners. This
+project is not affiliated with or endorsed by any of them.
