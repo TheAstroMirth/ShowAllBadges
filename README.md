@@ -17,7 +17,17 @@ Created and maintained by [TheAstroMirth](https://github.com/TheAstroMirth).
 
 ## Screenshots
 
-_No screenshots yet._ Add a before/after picture of a profile here, for example `docs/before-after.png`.
+### Before
+
+Shows Discord's default collapsed badge layout.
+
+![Before ShowAllBadges](screenshots/badges-before.png)
+
+### After
+
+All profile badges are displayed without the `+n` indicator.
+
+![After ShowAllBadges](screenshots/badges-after.png)
 
 ## Features
 
